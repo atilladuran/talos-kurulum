@@ -361,6 +361,10 @@ talosctl dashboard -n 192.168.1.160
 ![alt text](image-11.png)
 ---
 
+F2'ye basarak monitor e erişebilirsiniz.
+
+![alt text](image-25.png)
+
 ## 📦 Kubernetesi Kontrol Etme
 
 ```bash
